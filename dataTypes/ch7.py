@@ -9,4 +9,3 @@ chai_ingredients = ["water", "milk"]
 
 chai_ingredients.extend(spice_options)
 print(f"Chai : {chai_ingredients}")
-

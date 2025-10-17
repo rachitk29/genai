@@ -1,5 +1,6 @@
 def print_order(name, chai_type):
-    pass
+    print(f"{name} ordered {chai_type} chai!")
 
-print_order()
-print("")
+print_order("Aman", "Masala")
+print_order("Hitesh", "Ginger")
+print_order("Jia", "Tulsi")

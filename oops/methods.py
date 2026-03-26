@@ -21,3 +21,5 @@ l2 = Laptop("8gb", "256gb")
 
 l1.get_info()
 l2.get_info()
+ 
+
